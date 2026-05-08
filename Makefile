@@ -25,7 +25,7 @@ DATADIR=		${PREFIX}/share/endless-sky/plugins/${PORTNAME}
 NO_BUILD=		yes
 NO_ARCH=		yes
 
-PORTDATA=		*
+#PORTDATA=		*
 
 do-install:
 	@cd ${WRKSRC} && ${COPYTREE_SHARE} "images" ${STAGEDIR}${DATADIR}
