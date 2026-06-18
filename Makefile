@@ -1,5 +1,5 @@
 PORTNAME=		endless-sky-high-dpi
-DISTVERSION=    g20260420
+DISTVERSION=    g20260525
 CATEGORIES=     games
 MASTER_SITES=   GH
 PKGNAMESUFFIX=  -dev
@@ -16,7 +16,7 @@ RUN_DEPENDS=	endless-sky:games/endless-sky
 USE_GITHUB=		yes
 GH_ACCOUNT=		endless-sky
 GH_PROJECT=		endless-sky-high-dpi
-GH_TAGNAME=		60cfadc780dd131558a78eaa4882b0470d4d5a1e
+GH_TAGNAME=		534a77510c4c710ddcaee7b94c844b342905acc2
 
 CONFLICTS=		endless-sky-high-dpi
 

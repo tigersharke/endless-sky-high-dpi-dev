@@ -1293,7 +1293,9 @@
 %%DATADIR%%/images/land/beach14@2x.jpg
 %%DATADIR%%/images/land/beach15@2x.jpg
 %%DATADIR%%/images/land/beach18@2x.jpg
+%%DATADIR%%/images/land/beach19@2x.jpg
 %%DATADIR%%/images/land/beach1@2x.jpg
+%%DATADIR%%/images/land/beach20@2x.jpg
 %%DATADIR%%/images/land/beach2@2x.jpg
 %%DATADIR%%/images/land/beach3@2x.jpg
 %%DATADIR%%/images/land/beach4@2x.jpg
@@ -1385,6 +1387,8 @@
 %%DATADIR%%/images/land/desert15@2x.jpg
 %%DATADIR%%/images/land/desert19@2x.jpg
 %%DATADIR%%/images/land/desert1@2x.jpg
+%%DATADIR%%/images/land/desert20@2x.jpg
+%%DATADIR%%/images/land/desert21@2x.jpg
 %%DATADIR%%/images/land/desert2@2x.jpg
 %%DATADIR%%/images/land/desert3@2x.jpg
 %%DATADIR%%/images/land/desert4@2x.jpg
@@ -1407,6 +1411,7 @@
 %%DATADIR%%/images/land/dune4@2x.jpg
 %%DATADIR%%/images/land/dune5@2x.jpg
 %%DATADIR%%/images/land/dune6-harro@2x.jpg
+%%DATADIR%%/images/land/dune7@2x.jpg
 %%DATADIR%%/images/land/earthrise@2x.jpg
 %%DATADIR%%/images/land/fields0@2x.jpg
 %%DATADIR%%/images/land/fields10-sfiera@2x.jpg
@@ -1444,6 +1449,7 @@
 %%DATADIR%%/images/land/fog11@2x.jpg
 %%DATADIR%%/images/land/fog12@2x.png
 %%DATADIR%%/images/land/fog15@2x.jpg
+%%DATADIR%%/images/land/fog16@2x.jpg
 %%DATADIR%%/images/land/fog1@2x.jpg
 %%DATADIR%%/images/land/fog2@2x.jpg
 %%DATADIR%%/images/land/fog3@2x.jpg
@@ -1460,6 +1466,7 @@
 %%DATADIR%%/images/land/forest13@2x.jpg
 %%DATADIR%%/images/land/forest14@2x.jpg
 %%DATADIR%%/images/land/forest15@2x.jpg
+%%DATADIR%%/images/land/forest16@2x.jpg
 %%DATADIR%%/images/land/forest1@2x.jpg
 %%DATADIR%%/images/land/forest2@2x.jpg
 %%DATADIR%%/images/land/forest3@2x.jpg
@@ -1477,6 +1484,9 @@
 %%DATADIR%%/images/land/hills10@2x.jpg
 %%DATADIR%%/images/land/hills11@2x.jpg
 %%DATADIR%%/images/land/hills13@2x.jpg
+%%DATADIR%%/images/land/hills14@2x.jpg
+%%DATADIR%%/images/land/hills15@2x.jpg
+%%DATADIR%%/images/land/hills16@2x.jpg
 %%DATADIR%%/images/land/hills1@2x.jpg
 %%DATADIR%%/images/land/hills2@2x.jpg
 %%DATADIR%%/images/land/hills3@2x.jpg
@@ -1495,6 +1505,7 @@
 %%DATADIR%%/images/land/lava13@2x.jpg
 %%DATADIR%%/images/land/lava14@2x.png
 %%DATADIR%%/images/land/lava15@2x.jpg
+%%DATADIR%%/images/land/lava16@2x.jpg
 %%DATADIR%%/images/land/lava1@2x.jpg
 %%DATADIR%%/images/land/lava2@2x.jpg
 %%DATADIR%%/images/land/lava3@2x.jpg
@@ -1550,6 +1561,7 @@
 %%DATADIR%%/images/land/mountain3@2x.jpg
 %%DATADIR%%/images/land/mountain41@2x.jpg
 %%DATADIR%%/images/land/mountain45@2x.jpg
+%%DATADIR%%/images/land/mountain46@2x.jpg
 %%DATADIR%%/images/land/mountain4@2x.jpg
 %%DATADIR%%/images/land/mountain5@2x.jpg
 %%DATADIR%%/images/land/mountain6@2x.jpg
@@ -1686,6 +1698,7 @@
 %%DATADIR%%/images/land/snow38@2x.jpg
 %%DATADIR%%/images/land/snow39@2x.jpg
 %%DATADIR%%/images/land/snow3@2x.jpg
+%%DATADIR%%/images/land/snow40@2x.jpg
 %%DATADIR%%/images/land/snow4@2x.jpg
 %%DATADIR%%/images/land/snow5@2x.jpg
 %%DATADIR%%/images/land/snow6@2x.jpg
@@ -1759,6 +1772,7 @@
 %%DATADIR%%/images/land/station8@2x.jpg
 %%DATADIR%%/images/land/station9@2x.jpg
 %%DATADIR%%/images/land/treser@2x.png
+%%DATADIR%%/images/land/tundra1@2x.jpg
 %%DATADIR%%/images/land/turra@2x.png
 %%DATADIR%%/images/land/valley0@2x.jpg
 %%DATADIR%%/images/land/valley10-sfiera@2x.jpg
@@ -1800,6 +1814,7 @@
 %%DATADIR%%/images/land/water30@2x.jpg
 %%DATADIR%%/images/land/water31@2x.jpg
 %%DATADIR%%/images/land/water32@2x.jpg
+%%DATADIR%%/images/land/water33@2x.jpg
 %%DATADIR%%/images/land/water3@2x.jpg
 %%DATADIR%%/images/land/water4@2x.jpg
 %%DATADIR%%/images/land/water5@2x.jpg
